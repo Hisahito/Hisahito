@@ -4,7 +4,7 @@
 
 <p align="center" width="600">¡Hey 👋! I´m Isai Morales 👨🏻‍💻 </p>
 <p align="center" width="500">I´m<strong> Digital Assets Developer</strong></p>
-<img align="left" src = "https://cdn.dribbble.com/users/2008/screenshots/893577/dribbble-arctocat.png" width ="50px" height="70px">
+<img align="left" src = "https://cdn.dribbble.com/users/2008/screenshots/893577/dribbble-arctocat.png" width ="80px" height ="100px">
 <br>🌱 I’m currently learning Html, CSS, JavaScript, NodeJs, React.
 <br>⚡ I been working for different crypto projects as a freelance since 2017. 
 <br>
