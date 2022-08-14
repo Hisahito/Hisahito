@@ -1,10 +1,11 @@
 ## Whoami 
 
-<img align="right" height="200px" src="https://user-images.githubusercontent.com/83984969/173296188-b980d708-ccb8-4568-a8dc-bfe320b1f09f.png">
+<img align="right" height="200px" src="https://user-images.githubusercontent.com/83984969/184526249-b262e17a-82c2-4d4e-b367-4e84f0995c8a.png">
 
 <p align="center" width="600">¡Hey 👋! I´m Isai Morales 👨🏻‍💻 </p>
 
-<img align="left" src = "https://cdn.dribbble.com/users/2008/screenshots/893577/dribbble-arctocat.png" width ="80px" height ="100px">
+<img align="left" src = "https://cdn.dribbble.com/users/2008/screenshots/893577/dribbble-arctocat.png" width ="90px" height ="100px"/>
+
 <p align="center"><br>🐇 I’m currently learning Html, CSS, JavaScript, NodeJs, React, SQL, AWS and more tools.
 <br>⚡ I been working for different crypto projects as a freelance since 2017. 
 <br>🌱 I been part of the ONE Project of Oracle and LaunchX for Microsoft. 
