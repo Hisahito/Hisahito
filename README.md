@@ -58,3 +58,6 @@ Tools:<br>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
 <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="90" height="40"/> </a> </p> </div>
 
+<img align="center" width="1169" alt="Captura de Pantalla 2022-08-20 a la(s) 1 29 29" src="https://user-images.githubusercontent.com/83984969/185732271-03096b06-8e6a-48a9-8323-4c3f225891ea.png">
+
+
