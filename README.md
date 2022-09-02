@@ -1,6 +1,6 @@
 ## Whoami 
 
-<img align="right" height="200px" src="https://user-images.githubusercontent.com/83984969/184526249-b262e17a-82c2-4d4e-b367-4e84f0995c8a.png">
+<img align="right" height="200px" src="https://user-images.githubusercontent.com/83984969/188042754-240c683a-f9bd-4e0e-9c68-3b288bd74473.jpeg">
 
 <p align="center" width="600">¡Hey 👋! I´m Isai Morales 👨🏻‍💻 </p>
 
