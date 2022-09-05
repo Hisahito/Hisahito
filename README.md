@@ -39,7 +39,11 @@ Tools:<br>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
-<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="90" height="40"/> </a> </p> </div>
+<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="40" height="30"/> </a>
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="30"/> </a>
+<a href="https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/a0741faa8bddde0800543d6c7000da2df435718b/logos/strapi-icon.svg" alt="strapi" width="40" height="30"/> </a>
+</p> </div>
+
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hisahito&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
