@@ -29,6 +29,7 @@ Front-end:<br>
 Back-end:<br>
 <a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer"> <img align="center" title="Nodejs" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
 <a href="https://expressjs.com/en/starter/installing.html" target="_blank" rel="noreferrer"> <img align="center" title="Express" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></a>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img align="center" title="SQL" alt="SQL" height="40" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img align="center" title="PostgreSQL" alt="express" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="30"/> </a>
@@ -43,8 +44,8 @@ Tools:<br>
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="30"/> </a>
 <a href="https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/a0741faa8bddde0800543d6c7000da2df435718b/logos/strapi-icon.svg" alt="strapi" width="40" height="30"/> </a>
 <a href="https://docs.gitlab.com" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" width="60" height="50"/> </a>
-<a href="https://bitbucket.org" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg" alt="gitlab" width="60" height="50"/> </a>
-<a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="gitlab" width="70" height="60"/> </a>
+<a href="https://bitbucket.org" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg" alt="bitbucket" width="60" height="50"/> </a>
+<a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="70" height="60"/> </a>
 </p> </div>
 
 
