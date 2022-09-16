@@ -20,10 +20,10 @@
    <div align="center" width="500">
 <p align="left">
 Front-end:<br>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="Javascript" alt="javascript" width="40" height="30"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"title="React" alt="react" width="40" height="30"/> </a>
 <br>
 <br>
 Back-end:<br>
@@ -31,21 +31,21 @@ Back-end:<br>
 <a href="https://expressjs.com/en/starter/installing.html" target="_blank" rel="noreferrer"> <img align="center" title="Express" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></a>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img align="center" title="SQL" alt="SQL" height="40" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img align="center" title="PostgreSQL" alt="express" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="30"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="java" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="spring" width="40" height="30"/> </a>
 <br>
 <br>
 Tools:<br>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="30"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
-<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="60" height="50"/> </a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="30"/> </a>
-<a href="https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/a0741faa8bddde0800543d6c7000da2df435718b/logos/strapi-icon.svg" alt="strapi" width="40" height="30"/> </a>
-<a href="https://docs.gitlab.com" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" width="60" height="50"/> </a>
-<a href="https://bitbucket.org" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg" alt="bitbucket" width="60" height="50"/> </a>
-<a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="jira" width="70" height="60"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img align="center" title="VSC" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="30"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" title="git" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img align="center" title="figma" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
+<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" title="azure" alt="azure" width="60" height="50"/> </a>
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="graphql" alt="GraphQL" width="40" height="30"/> </a>
+<a href="https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/a0741faa8bddde0800543d6c7000da2df435718b/logos/strapi-icon.svg" title="strapi" alt="strapi" width="40" height="30"/> </a>
+<a href="https://docs.gitlab.com" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" title="gitlab" alt="gitlab" width="60" height="50"/> </a>
+<a href="https://bitbucket.org" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg" title="bitbucket" alt="bitbucket" width="60" height="50"/> </a>
+<a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" title="jira" alt="jira" width="70" height="60"/> </a>
 </p> </div>
 
 
