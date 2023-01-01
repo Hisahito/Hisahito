@@ -4,7 +4,7 @@
 
 <p align="center" width="600">¡Hey 👋! I´m Isai Morales 👨🏻‍💻 </p>
 
-<p align="center"><br>🐇 I’m currently learning Html, CSS, JavaScript, NodeJs, React, SQL, Java, Spring and more tools.
+<p align="center"><br>🐇 I’m currently learning Html, CSS, JavaScript, NodeJs, React, SQL, Swift and more tools.
 <br>⚡ I been working for different crypto projects as a freelance since 2017 now working as a Developer in Kiubix MX. 
 <br>🌱 I been part of the ONE Project of Oracle and LaunchX for Microsoft. 
 <br>💻 <strong>I´m a Full stack Developer in progress.</strong>
@@ -31,8 +31,6 @@ Back-end:<br>
 <a href="https://expressjs.com/en/starter/installing.html" target="_blank" rel="noreferrer"> <img align="center" title="Express" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></a>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img align="center" title="SQL" alt="SQL" height="40" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img align="center" title="PostgreSQL" alt="express" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="java" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="spring" width="40" height="30"/> </a>
 <br>
 <br>
 Tools:<br>
