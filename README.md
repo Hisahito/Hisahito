@@ -5,7 +5,7 @@
 <p align="center" width="600">¡Hey 👋! I´m Isai Morales 👨🏻‍💻 </p>
 
 <p align="center"><br>🐇 I’m currently learning Html, CSS, JavaScript, NodeJs, React, SQL, Swift and more tools.
-<br>⚡ I been working for different crypto projects as a freelance since 2017 now working as a Developer in Kiubix MX. 
+<br>⚡ I been working for different crypto projects as a freelance since 2017 now working as a Developer in KIUBIX MX. 
 <br>🌱 I been part of the ONE Project of Oracle and LaunchX for Microsoft. 
 <br>💻 <strong>I´m a Full stack Developer in progress.</strong>
 <br></p>
@@ -23,6 +23,7 @@ Front-end:<br>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="Javascript" alt="javascript" width="40" height="30"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="Typescript" alt="typescript" width="40" height="30"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"title="React" alt="react" width="40" height="30"/> </a>
 <br>
 <br>
