@@ -4,7 +4,7 @@
 
 <p align="center" width="600">¡Hey 👋! I´m Isai Morales 👨🏻‍💻 </p>
 
-<p align="center"><br>🐇 I’m currently learning Html, CSS, JavaScript, NodeJs, React, SQL, Swift and more tools.
+<p align="center"><br>🐇 I’m currently learning TypeScript, NodeJs, React, SQL, Swift and more tools.
 <br>⚡ I been working for different crypto projects as a freelance since 2017 now working as a Developer in KIUBIX MX. 
 <br>🌱 I been part of the ONE Project of Oracle and LaunchX for Microsoft. 
 <br>💻 <strong>I´m a Full stack Developer in progress.</strong>
